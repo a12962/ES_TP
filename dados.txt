@@ -1,5 +1,5 @@
 Rallys:
 -Falperra
 -WRCPortugal
--Penha
--Albufeira
+-Algarve
+-Esposente
